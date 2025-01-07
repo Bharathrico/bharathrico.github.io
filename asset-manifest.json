@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcac73a6.css",
+    "main.js": "/static/js/main.06ca7ad9.js",
+    "static/js/453.5edffd07.chunk.js": "/static/js/453.5edffd07.chunk.js",
+    "static/media/Switzer-Variable.ttf": "/static/media/Switzer-Variable.fa6516b65d6b10e1a3c7.ttf",
+    "index.html": "/index.html",
+    "main.fcac73a6.css.map": "/static/css/main.fcac73a6.css.map",
+    "main.06ca7ad9.js.map": "/static/js/main.06ca7ad9.js.map",
+    "453.5edffd07.chunk.js.map": "/static/js/453.5edffd07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcac73a6.css",
+    "static/js/main.06ca7ad9.js"
+  ]
+}
